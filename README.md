@@ -15,15 +15,13 @@
 | 运行系统       | Windows    |
 
 
-作者：Lemax 个人网页：http://lemax-official.lofter.com/
+作者：Lemax |　个人网页：http://lemax-official.lofter.com/
 
 來源：游戏官网：http://theoblivionlemax.lofter.com/
 
 
 ## 申明
 
-
-```
 
 在遵守该协议的前提下，游戏允许自由地下载、实况直播或者进行二次创作。
 
